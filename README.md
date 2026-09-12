@@ -109,9 +109,7 @@
 
 | 📁 Project | 🏗️ Architecture & Stack | 📝 Description | 🚀 Status |
 | :--- | :--- | :--- | :---: |
-| **[Golang Experiments](https://github.com/ChSab178/Golang)** | `Go` `Backend` `Concurrency` | High-performance backend services and concurrent programming experiments. | 🟢 Active |
-| **[Modern UI Dashboard](https://github.com/ChSab178)** | `React` `TailwindCSS` `Shadcn UI` | A highly responsive, accessible, and aesthetically refined user interface dashboard. | 🚀 Live |
-| **[Your Next Project]** | `Next.js` `PostgreSQL` `Drizzle ORM` | *Brief description of your upcoming or current flagship full-stack application.* | 🚧 In Dev |
+| **[Golang Experiments](https://github.com/ChSab178/Golang)** | `Go` `Backend` `Concurrency` |Exploring new things| 🟢 Active |
 
 ---
 
