@@ -58,6 +58,7 @@
       <td>
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
         <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
       </td>
     </tr>
@@ -66,76 +67,30 @@
 
 ---
 
-## ⚡ **System Status & Current Focus**
+## 📊 **Development Analytics & Graphs**
 
 <p align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>🎯 Currently Building</h3>
-        <ul>
-          <li>Scalable backend architectures with <b>Express</b> & <b>PostgreSQL</b>.</li>
-          <li>High-performance, type-safe frontends using <b>React</b> & <b>TypeScript</b>.</li>
-          <li>Exploring advanced database optimization with <b>Mongoose</b> & <b>Drizzle ORM</b>.</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>🔧 System Online</h3>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
-      </td>
-    </tr>
-  </table>
+  <!-- Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChSab178&theme=react-dark&hide_border=true&area=true&color=00FF00&title_color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Compact Graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF00" alt="Top Languages Graph" width="48%" />
+  
+  <!-- Standard Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats" width="48%" />
 </p>
 
 ---
 
-## 🐍 **Contribution Grid**
+## 🐍 **Contribution Snake Animation**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-### 🎮 **To Activate the Snake Game Animation:**
-
-To make the snake game animation work on your profile, follow these steps:
-
-1. **Create a GitHub Actions Workflow**: In your repository, create a file at `.github/workflows/snake.yml`
-2. **Add this workflow code**:
-
-```yaml
-name: Generate Snake Game
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual triggering
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ChSab178
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-white.svg?palette=github-white
-      
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. **Commit and Push**: Once you've added this workflow, GitHub Actions will automatically generate and update the snake animation based on your contributions.
-
-4. **The SVG will be available at**: `https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-snake.svg`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
