@@ -69,14 +69,9 @@
 
 ## 📊 **Development Analytics & Stats**
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=radical)
-</p>
+![ChSab178's GitHub stats](https://github-stats-extended.vercel.app/api?username=ChSab178&show_icons=true&theme=radical)
 
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=radical)
-</p>
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=radical)
 ---
 
 ## 🐍 **Contribution Snake Animation**
