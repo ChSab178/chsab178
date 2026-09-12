@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ChSab178">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Crafting+clean,+efficient+code;Python+%7C+TypeScript+%7C+React+%7C+PostgreSQL" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Full-Stack+Development;Open-Source+Passion;System+Design+Expert" alt="Typing SVG" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@
 ## 🐍 **Contribution Snake Animation**
 
 <p align="center">
-  <img src="https://github.com/ChSab178/ChSab178/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
