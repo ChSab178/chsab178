@@ -82,7 +82,7 @@
 ## 🐍 **Contribution Snake Animation**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ChSab178/chsab178/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
