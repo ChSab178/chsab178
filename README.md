@@ -70,11 +70,11 @@
 ## 📊 **Development Analytics & Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=radical)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=00FF00" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=radical)
 </p>
 
 ---
