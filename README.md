@@ -67,27 +67,25 @@
 
 ---
 
-## 📊 **Development Analytics & Graphs**
+## ⚡ **System Status & Current Focus**
 
 <p align="center">
-  <!-- Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChSab178&theme=react-dark&hide_border=true&area=true&color=00FF00&title_color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Compact Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF00" alt="Top Languages Graph" width="48%" />
-  
-  <!-- Standard Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats" width="48%" />
-</p>
-
----
-
-## 🐍 **Contribution Grid (Snake Game)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChSab178/ChSab178/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🎯 Currently Building</h3>
+        <ul>
+          <li>Scalable backend architectures with <b>Express</b> & <b>PostgreSQL</b>.</li>
+          <li>High-performance, type-safe frontends using <b>React</b> & <b>TypeScript</b>.</li>
+          <li>Exploring advanced database optimization with <b>Mongoose</b> & <b>Drizzle ORM</b>.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🔧 System Online</h3>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
