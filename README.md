@@ -70,12 +70,10 @@
 ## 📊 **Development Analytics & Stats**
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=ChSab178&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSab178&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=00FF00" alt="Top Languages" />
 </p>
 
